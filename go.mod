@@ -1,3 +1,3 @@
-module github.com/imxfly/send-cloud-sms-go
+module github.com/imxfly/send-cloud-email-go
 
 go 1.14
